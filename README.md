@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kareem Alkhaleefa</h1>
 
 # 💫 About Me:
-I’m a Computer Science student with a strong focus on backend development, automation, and building systems that actually solve real problems. I enjoy working close to the metal on logic-heavy problems while also shipping practical, end-to-end applications.
-
-I care a lot about **discipline, consistency, and real output** — not just theory.
-
----
+I am a fourth-year CS & Math student at University of St. Thomas. Building full-stack applications using Next.js and FastAPI and Working with Python and Java.
 
 ## 🚀 What I'm Currently Working On
 
@@ -28,7 +24,7 @@ Check out my portfolio:
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-alkhaleefa/)
 
 ---
 
