@@ -5,8 +5,10 @@ I am a fourth-year CS & Math student at University of St. Thomas. **Building ful
 
 ## 🚀 What I'm Up To
 
--🚀 Building full-stack applications with Next.js and FastAPI
--💻 Working with Python and Java
+- 💻 Shipping two full-stack projects this month with Next.js and FastAPI
+- 📚 Deepening my understanding of system design and scalable architectures
+- 🎯 Preparing to join the Minneapolis/St. Paul tech scene
+
 
 Check out my portfolio:  
 👉 **https://kareem.sh**
