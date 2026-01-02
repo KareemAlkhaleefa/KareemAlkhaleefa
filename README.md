@@ -3,23 +3,13 @@
 # 💫 About Me:
 I am a fourth-year CS & Math student at University of St. Thomas. Building full-stack applications using Next.js and FastAPI and Working with Python and Java.
 
-## 🚀 What I'm Currently Working On
+## 🚀 What I'm Up To
 
-- ⚙️ Building backend services with **FastAPI** and **PostgreSQL**
-- 🤖 Designing automation workflows using **Make**, APIs, and custom scripts
-- 🧠 Strengthening data structures, algorithms, and systems fundamentals
-- 🛠️ Shipping real projects instead of tutorial code
+-🚀 Building full-stack applications with Next.js and FastAPI
+-💻 Working with Python and Java
 
 Check out my portfolio:  
 👉 **https://kareem.sh**
-
----
-
-## 🎯 Goals
-- Become a highly competent software engineer with strong fundamentals
-- Build production-ready systems (not just demos)
-- Leverage automation to create scalable, real-world solutions
-- Continuously improve through disciplined daily execution
 
 ---
 
@@ -35,13 +25,16 @@ Check out my portfolio:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%3178c6)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### Frameworks & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,18 +43,7 @@ Check out my portfolio:
 
 ---
 
-### Automation & Cloud
-![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
+### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
-
-## 📌 Philosophy
-> Consistency beats motivation.  
-> Real projects beat fake progress.  
-> Discipline compounds.
-
----
-
-⭐ Feel free to explore my repositories — most of my work focuses on **backend logic, automation, and building systems that scale**.
