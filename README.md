@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kareem Alkhaleefa</h1>
 
 # 💫 About Me:
-I am a fourth-year CS & Math student at University of St. Thomas. **Building full-stack applications** **using Next.js and FastAPI and Working with Python and Java.**
+I am a fourth-year CS & Math student at University of St. Thomas. **Building full-stack applications** **using Next.js and FastAPI. Working with Python and Java.**
 
 ## 🚀 What I'm Up To
 
@@ -9,11 +9,8 @@ I am a fourth-year CS & Math student at University of St. Thomas. **Building ful
 - 📚 Deepening my understanding of system design and scalable architectures
 - 🎯 Preparing to join the Minneapolis/St. Paul tech scene
 
-
 Check out my portfolio:  
 👉 **https://kareem.sh**
-
-
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-alkhaleefa/)
