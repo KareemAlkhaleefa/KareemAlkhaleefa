@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋 I'm Kareem Alkhaleefa</h1>
 
+![snake gif](https://github.com/KareemAlkhaleefa/KareemAlkhaleefa/blob/output/github-snake-dark.svg)
+
+
 # 💫 About Me:
 I am a fourth-year CS & Math student at University of St. Thomas. **Building full-stack applications** **using Next.js and FastAPI. Working with Python and Java.**
 
